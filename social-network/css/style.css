@@ -17,3 +17,21 @@ header .logo{
   background-image: linear-gradient(#04519b, #044687 60% , #033769);
   color: white !important;
 }
+
+
+.comment-avatar img{
+  width: 40px;
+  margin-right: 5px;
+}
+
+.friends li{
+  list-style: none;
+  padding: 5px;
+  display: inline;
+  float: left;
+}
+
+.friends img{
+  width: 55px;
+}
+
