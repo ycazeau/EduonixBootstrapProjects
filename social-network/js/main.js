@@ -16,7 +16,7 @@
             <input type="password" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Password">
           </div>      
                 
-          <button type="submit" class="btn btn-primary">LOGIN</button>
+          <button type="submit" class="btn btn-primary btn-login">LOGIN</button>
   
           <div class="form-check mb-2 mr-sm-2">
             <input class="form-check-input" type="checkbox" id="inlineFormCheck">
