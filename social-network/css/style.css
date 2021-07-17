@@ -29,6 +29,7 @@ header .logo{
   color: white !important;
 }
 
+/* Main Page CSS*/
 /*the shape next to the user in the post*/
 .bubble{
   position: relative;
@@ -118,7 +119,27 @@ header .logo{
   border-bottom: 1px solid #ccc;
   overflow: auto;
 }
+/* Main Page CSS*/
 
+/* Members Page CSS*/
+.members .member-row{
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.members img{
+  margin-bottom: 5px;
+}
+
+@media (min-width: 991px) {
+  .members p{
+    padding-top: 40px;
+  }
+}
+/* Merbers Page CSS*/
+
+/* Footer CSS*/
 footer{
   background: #f4f4f4;
   height: 90px;
