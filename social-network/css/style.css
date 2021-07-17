@@ -139,6 +139,18 @@ header .logo{
 }
 /* Merbers Page CSS*/
 
+/* Profile Page CSS*/
+.profile ul{
+  margin-top: 10px;
+}
+
+.profile li{
+  list-style: none;
+  line-height: 1.9em;
+  font-size: 18px;
+}
+/* Profile Page CSS*/
+
 /* Footer CSS*/
 footer{
   background: #f4f4f4;
