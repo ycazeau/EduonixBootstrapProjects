@@ -151,6 +151,24 @@ header .logo{
 }
 /* Profile Page CSS*/
 
+/* Photos Page CSS*/
+.photos{
+  margin: 0;
+  padding: 0;
+}
+
+.photos li{
+  list-style: none;
+  float: left;
+  margin: 5px;
+  width: 23%;
+}
+
+.photos img{
+  width: 100%;
+}
+/* Photos Page CSS*/
+
 /* Footer CSS*/
 footer{
   background: #f4f4f4;
